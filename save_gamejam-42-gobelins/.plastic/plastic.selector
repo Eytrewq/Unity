@@ -1,0 +1,4 @@
+repository "gamejam-42-gobelins@piliercentralteam@cloud"
+  path "/"
+    br "/main"
+    co "/main"
